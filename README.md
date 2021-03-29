@@ -4,6 +4,6 @@
 ## Source files are sorted in ascending order by field "timestamp"
 ## The resulting file is also sorted in ascending order by field "timestamp"
 
-
-
-
+# Running the tests
+## You can launch the tests as follows:
+* pytest <path>/test_jsonl_processing.py
